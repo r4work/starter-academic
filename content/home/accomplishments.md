@@ -46,6 +46,6 @@ date_format = "Jan 2006"
  # certificate_url = "https://www.datacamp.com"
   date_start = "2017-01-01"
   date_end = "2017-03-17"
-  description = "writing and data analysis"
+  description = "Writing and analysis"
 
 +++
