@@ -33,10 +33,11 @@ education:
     year: 2009
   - course: BA in Mathematics, Economics and English
     year: 2007
+
 skills:
-  - Data Analysis with R and SPSS
-  icon: chart-line
-  icon_pack: fas
+  - icon: chart-line
+    icon_pack: fas
+    name: Data Analysis with R and SPSS
   
 
 # Social/Academic Networking
