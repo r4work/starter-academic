@@ -25,8 +25,8 @@ subtitle = ""
     name = "All"
      tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
+  [[content.filter_button]]
+     name = "Social Networks and Community Participation"
   #   tag = "Deep Learning"
   
   # [[content.filter_button]]
