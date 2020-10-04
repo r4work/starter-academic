@@ -53,18 +53,20 @@ social:
   link: https://www.researchgate.net/profile/Mudit_Singh7
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [ icon: cv
-   icon_pack: ai
-   link: files/cv.pdf]
+ # Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mks61@duke.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-[user_groups:
+user_groups:
 - Researchers
-- Visitors]
+- Visitors
 ---
 
-Dr. Mudit Kumar Singh is a Fulbright alumnus and Visiting Research Fellow affiliated to Duke University. He has been doing research, advocacy, and teaching across India's four northern states for the last ten years.
+Dr. Mudit Kumar Singh is a Fulbright alumnus and Visiting Research Fellow affiliated to Duke University. He has been doing research, advocacy, and teaching for the last ten years in India.
