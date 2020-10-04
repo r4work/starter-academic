@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Dr. Mudit Kumar Singh
+title: Mudit Kumar Singh
 
 # Username (this should match the folder name)
 authors:
