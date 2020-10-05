@@ -33,15 +33,14 @@ education:
     year: 2009
   - course: BA in Mathematics, Economics and English
     year: 2007
+    
 skills:
-[[feature]]
-  icon = "chart-line"
+-  icon = "chart-line"
   icon_pack = "fab"
   name = "Statistical Analysis"
   description = "R and SPSS"
   
-[[feature]]
-  icon = "pubpeer"
+-  icon = "pubpeer"
   icon_pack = "ai"
   name = "Network Analysis"
   description = "R and Pajek"  
