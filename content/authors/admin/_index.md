@@ -37,7 +37,7 @@ education:
 skills:
   - icon: chart-line
     icon_pack: fas
-    name: Data Analysis with R and SPSS
+     description:"""Data Analysis with R and SPSS"""
   
 
 # Social/Academic Networking
