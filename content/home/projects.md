@@ -28,10 +28,10 @@ subtitle = ""
   [[content.filter_button]]
      name = "Social Networks and Community Participation"
       tag = "Social Networks"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+ url:https://igs.duke.edu/2017-2018-graduate-working-groups-global-issues
+   [[content.filter_button]]
+     name = "Other"
+     tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -54,11 +54,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "SkyBlue"
+  # color = "SkyBlue"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
