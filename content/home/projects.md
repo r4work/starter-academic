@@ -28,7 +28,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "Social Networks and Community Participation"
       tag = "Social Networks"
- url:https://igs.duke.edu/2017-2018-graduate-working-groups-global-issues
+ url=https://igs.duke.edu/2017-2018-graduate-working-groups-global-issues
    [[content.filter_button]]
      name = "Other"
      tag = "Demo"
