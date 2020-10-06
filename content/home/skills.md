@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-line"
+ - icon = "chart-line"
   icon_pack = "fab"
   name = "Statistical Analysis"
   description = "R and SPSS"
   
 [[feature]]
-  icon = "pubpeer"
+ - icon = "pubpeer"
   icon_pack = "ai"
   name = "Network Analysis"
   description = "R and Pajek"  
