@@ -26,9 +26,11 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Social Networks and Community Participation"
+     name = "Community Participation and Social Networks"
       tag = "Social Networks"
-      
+    [[content.filter_button]]
+     name = "Thesis"
+      tag = "Community Participation"   
    [[content.filter_button]]
     # name = "Other"
     # tag = "Demo"
