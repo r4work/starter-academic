@@ -34,17 +34,6 @@ education:
   - course: BA in Mathematics, Economics and English
     year: 2007
     
-skills:
--  icon = "chart-line"
-  icon_pack = "fab"
-  name = "Statistical Analysis"
-  description = "R and SPSS"
-  
--  icon = "pubpeer"
-  icon_pack = "ai"
-  name = "Network Analysis"
-  description = "R and Pajek"  
-  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
