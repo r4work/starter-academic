@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Research"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,23 +18,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Duke University"
-  #organization_url = "https://www.coursera.org"
-  title = "Community Participation and Social Networks"
+  organization = "Center for International and Global Studies"
+  organization_url = "https://igs.duke.edu/2017-2018-graduate-working-groups-global-issues"
+  title = "Community Participation and Social Networks in India"
   url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2017-08-01"
   date_end = "2021-07-31"
-  description = "Funded by Duke"
+  description = "Led a working group funded by Duke University in 2017. The project has resulted a paper in a peer reviewed, highy ranked journal in 2020. Another paper is underway."
 
 [[item]]
-  organization = "United States India Education Foundation"
+  organization = "Motilal Nehru National Institute of Technology Allahabad"
   #organization_url = "https://www.edx.org"
-  title = "Junior Research Fellow"
-  url = "http://www.usief.org.in/scholar-profile/scholarprofiledetails.aspx?fellowid=11397"
+  title = "Participatory Rural Development in India:Network-Based Social Capital in Panchayats of Uttar Pradesh"
+  Subtitle="Research for the award of Ph.D."
+  url = "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
   #certificate_url = "https://www.edx.org"
-  date_start = "2017-08-18"
-  date_end = "2018-04-23"
-  description = "Thesis"
+  date_start = "2014-07-22"
+  date_end = "2018-12-15"
+  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. THe title is listed with International Sociological Association and a paper is published in a highly-ranked, peer reviewed international jurnal. One more publication is underway"
  
 +++
