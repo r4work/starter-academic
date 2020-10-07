@@ -29,13 +29,13 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Motilal Nehru National Institute of Technology Allahabad"
-  #organization_url = "https://www.edx.org"
+  organization_url = "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
   title = "Participatory Rural Development in India:Network-Based Social Capital in Panchayats of Uttar Pradesh"
   Subtitle="Research for the award of Ph.D."
-  url = "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
+  url = ""
   #certificate_url = "https://www.edx.org"
   date_start = "2014-07-22"
   date_end = "2018-12-15"
-  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. THe title is listed with International Sociological Association and a paper is published in a highly-ranked, peer reviewed international jurnal. One more publication is underway"
+  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. The title is listed with International Sociological Association and a paper is published in a highly-ranked, peer reviewed international jurnal. One more publication is underway"
  
 +++
