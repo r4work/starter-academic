@@ -26,7 +26,6 @@ date_format = "Jan 2006"
   date_end = "2014-05-31"
   description = """Taught General Management Theories, Communication Skills, Computer Applications for Social Sciences
   Responsibilities include:
-  * English language lab set up
   * Coundcting Examination and Evaluation
   * Administrative assistance in the Department
   """
@@ -37,6 +36,10 @@ date_format = "Jan 2006"
   location = "Prayagraj, Uttar Pradesh, India"
   date_start = "2018-09-16"
   date_end = "2019-04-30"
-  description = """Taught General Management Theories, Managerial Economics, Project Management and Statistics."""
+  description = """Taught General Management Theories, Economic Environment, Project Management and Statistics
+  Responsibilities include:
+  * Coundcting Examination and Evaluation
+  * Lectures on hourly basis
+  """
 
 +++
