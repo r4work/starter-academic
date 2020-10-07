@@ -112,7 +112,7 @@ phone = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
- {icon = "envelope", icon_pack = "fas", name = "rodri.alcaraz@gmail.com", link = "mailto:rodri.alcaraz@gmail.com"},
+ {icon = "envelope", icon_pack = "fas", name = "mudit.develop@gmail.com", link = "mailto:mudit.develop@gmail.com"},
  {icon = "twitter", icon_pack = "fab", name = "@mudit_develop", link = "https://twitter.com/mudit_develop"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live: mudit.develop"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
