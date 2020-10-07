@@ -24,20 +24,19 @@ date_format = "Jan 2006"
   location = "Prayagraj, Uttar Pradesh, India"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = """Taught Principles of Management, Communication Skills, Computer Applications for Social Sciences
+  description = """Taught General Management Theories, Communication Skills, Computer Applications for Social Sciences
   Responsibilities include:
   * English language lab set up
   * Coundcting Examination and Evaluation
   * Administrative assistance in the Department
   """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Guest Faculty"
+  company = "University of Allahabad"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Prayagraj, Uttar Pradesh, India"
+  date_start = "2018-09-16"
+  date_end = "2019-04-30"
+  description = """Taught General Management Theories, Managerial Economics, Project Management and Statistics."""
 
 +++
