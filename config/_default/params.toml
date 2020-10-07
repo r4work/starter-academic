@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mks61@duke.edu"
+email = "mudit.develop@gmail.com"
 phone = ""
 
 # Address
@@ -112,7 +112,8 @@ phone = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+ {icon = "envelope", icon_pack = "fas", name = "rodri.alcaraz@gmail.com", link = "mailto:rodri.alcaraz@gmail.com"},
+ {icon = "twitter", icon_pack = "fab", name = "@mudit_develop", link = "https://twitter.com/mudit_develop"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live: mudit.develop"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
