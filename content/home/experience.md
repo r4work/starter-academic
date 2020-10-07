@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Visiting Faculty"
+  company = "Motilal Nehru National Institute of Technology Allahabad"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  location = "Prayagraj, Uttar Pradesh, India"
+  date_start = "2013-10-01"
+  date_end = "2014-05-31"
+  description = """Taught Principles of Management, Communication Skills, Computer Applications for Social Sciences
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * English language lab set up
+  * Coundcting Examination and Evaluation
+  * Administrative assistance in the Department
   """
 
 [[experience]]
