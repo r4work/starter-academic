@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Pub
 # View.
 #   1 = List
 #   2 = Compact
