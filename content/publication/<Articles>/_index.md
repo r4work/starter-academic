@@ -1,7 +1,7 @@
 ---
-title:Social Capital
-date:01.04.2020
-publication_types:2
+title: Social Capital
+date: 01.04.2020
+#publication_types: 2
 #0 = Uncategorized
 #1 = Conference paper
 #2 = Journal article
