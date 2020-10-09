@@ -7,7 +7,7 @@ title: Publications
 #   3 = Card
 #   4 = Citation
 view: 4
-title: "Social Capital and Social Inequality"
+title: Social Capital and Social Inequality
 publication_types: use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
 0 = Uncategorized
 1 = Conference paper
