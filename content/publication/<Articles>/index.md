@@ -13,3 +13,4 @@ publication_types:"2"
 #8 = Patent (v4.2+ required)
 publication: International Journal of Sociology and Social Policy
 #abstract: the summary of your publication
+---
