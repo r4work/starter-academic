@@ -1,5 +1,5 @@
 ---
-'featured=true'
+featured=true
 title: Social Capital
 date: 01.04.2020
 #publication_types: 2
