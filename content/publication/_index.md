@@ -1,13 +1,11 @@
 ---
-title: Publications
-
+#title: Publications
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
-subtitle: Social Capital and Social Inequality
+title: Social Capital and Social Inequality
 publication_types: use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
 0 = Uncategorized
 1 = Conference paper
