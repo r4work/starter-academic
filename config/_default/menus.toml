@@ -24,8 +24,8 @@
   weight = 15
   
 [[main]]
-  name = "Publications"
-  url = "files/publications.pdf"
+  name = "Download CV"
+  url = "files/cv.pdf"
   weight = 20
   
 [[main]]
