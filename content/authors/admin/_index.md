@@ -21,10 +21,9 @@ organizations:
 bio: My research interests include local governance, mix-method research and network analysis
 
 interests:
-- Social Capital and Social Inequality
-- Social Network and Social Statistics
 - Local Governance and Public Policy
-
+- Social Network and Social Statistics
+- Social Capital and Digital Democracy
 education:
   courses:
   - course: PhD in Development Studies
@@ -69,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Mudit Kumar Singh is a Fulbright alumnus and Visiting Research Fellow affiliated to Duke University. He has been doing research, advocacy, and teaching for the last ten years in India.
+Welcome to my website! I am a Fulbright alumnus and Visiting Research Fellow affiliated to Duke University. I have been doing research, advocacy, and teaching for the last ten years in India.
