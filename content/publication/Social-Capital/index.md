@@ -1,4 +1,3 @@
 ---
 title:Article
-publication: journal
 ---
