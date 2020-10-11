@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "United States India Education Foundation"
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "Fulbright-Nehru Doctoral Fellow"
   url = "http://www.usief.org.in/scholar-profile/scholarprofiledetails.aspx?fellowid=11397"
   #certificate_url = "https://www.edx.org"
