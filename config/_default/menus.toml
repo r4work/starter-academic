@@ -25,8 +25,13 @@
   
 [[main]]
   name = "Download CV"
+  url = "#accomplishments"
+  weight = 20 
+  
+[[main]]
+  name = "Download CV"
   url = "files/cv.pdf"
-  weight = 20
+  #weight = 20
   
 [[main]]
   name = "Contact"
