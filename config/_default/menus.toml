@@ -29,14 +29,19 @@
   weight = 20 
   
 [[main]]
+  name = "Development Parctice"
+  url = ""
+  weight = 25
+  
+ [[main]]
   name = "Download CV"
   url = "files/cv.pdf"
   #weight = 20
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 25
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
