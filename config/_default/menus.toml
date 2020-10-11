@@ -24,7 +24,7 @@
   weight = 15
   
 [[main]]
-  name = "Download CV"
+  name = "Scholarships"
   url = "#accomplishments"
   weight = 20 
   
