@@ -115,7 +115,7 @@ contact_links = [
  {icon = "envelope", icon_pack = "fas", name = "mudit.develop@gmail.com", link = "mailto:mudit.develop@gmail.com"},
  {icon = "twitter", icon_pack = "fab", name = "@mudit_develop", link = "https://twitter.com/mudit_develop"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live: mudit.develop"},
-#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+ {icon = "facebook", icon_pack = "fab", name = "See me on FB", link = "https://www.facebook.com/mudit.k.singh.3"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
