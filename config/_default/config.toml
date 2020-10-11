@@ -7,7 +7,7 @@
 
 # Title of your site
 enableEmoji = true
-[params]
+{{ .title | emojify }}
 title = "Welcome to my website:slightly_smiling_face:"
 
 # The URL of your site.
