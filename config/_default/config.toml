@@ -6,7 +6,6 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-enableEmoji = true
 title = "Welcome to my website!"
 
 # The URL of your site.
