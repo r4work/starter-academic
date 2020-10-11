@@ -7,8 +7,7 @@
 
 # Title of your site
 enableEmoji = true
-{{ .title | emojify }}
-title = "Welcome to my website:slightly_smiling_face:"
+title = "Welcome to my website!"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
