@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Fulbright alumnus and Visiting Research Fellow affiliated to Duke Network Analysis Center, Social Science Research Institute, Duke University. I have been doing research, advocacy, and teaching for the last ten years in India. My recent studies apply an evidence-based mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and online platforms.
+I am a Fulbright alumnus and currently a Visiting Research Fellow affiliated to Duke Network Analysis Center, Social Science Research Institute, Duke University. I have been doing research, advocacy, and teaching for the last ten years in India. My recent studies apply an evidence-based mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and online platforms.
