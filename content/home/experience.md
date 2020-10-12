@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "University of Allahabad"
   company_url = ""
   location = "Prayagraj, Uttar Pradesh, India"
-  date_start = "2018-09-16"
-  date_end = "2019-04-30"
+  date_start = "2019-09-16"
+  date_end = "2020-04-30"
   description = """Taught General Management Theories, Economic Environment, Project Management and Statistics
   Responsibilities include:
   * Coundcting Examination and Evaluation
