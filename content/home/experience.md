@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """Taught General Management Theories, Economic Environment, Project Management and Statistics
   Responsibilities include:
   * Coundcting Examination and Evaluation
-  * Lectures on hourly basis
+  * Lectures at UG and PG levels
   """
 
 +++
