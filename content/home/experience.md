@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   location = "Prayagraj, Uttar Pradesh, India"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = """Taught General Management Theories, Communication Skills, Computer Applications for Social Sciences
+  description = """Taught General Management Theories, Communication Skills Workshop, 
+  Computer Applications for Social Sciences
   Responsibilities include:
   * Coundcting Examination and Evaluation
   * Administrative assistance in the Department
