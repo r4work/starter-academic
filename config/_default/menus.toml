@@ -28,14 +28,14 @@
   url = "#accomplishments"
   weight = 20 
   
-#[[main]]
- # name = "Development Parctice"
-  #url = ""
-  #weight = 25
+[[main]]
+ name = "Download Publications"
+  url = ""files/pub.pdf""
+  weight = 25
   
- [[main]]
-  name = "Download CV"
-  url = "files/cv.pdf"
+# [[main]]
+  #name = "Download CV"
+ # url = "files/cv.pdf"
   #weight = 20
 
 [[main]]
