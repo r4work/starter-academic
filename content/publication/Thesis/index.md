@@ -28,14 +28,14 @@ featured: false
 
  links:
 #- name: ""
-  url: https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207
+#  url: https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207'
 url_video: ''
 
 # Featured image
