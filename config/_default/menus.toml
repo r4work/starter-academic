@@ -28,9 +28,9 @@
   url = "#accomplishments"
   weight = 20 
   
-#[[main]]
- #name = "Download Publications"
- # url = ""files/pub.pdf""
+[[main]]
+ name = "Publications"
+  url = "#publications"
   #weight = 25
   
 [[main]]
