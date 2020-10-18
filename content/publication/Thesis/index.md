@@ -5,7 +5,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-04-01T00:00:00Z"
+date: "2018-12-15T00:00:00Z"
 doi: "10.1108/IJSSP-01-2020-0024"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ featured: false
 
 # links:
 #- name: ""
-   url: "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
+ #  url: "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
