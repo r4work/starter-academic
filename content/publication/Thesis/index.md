@@ -26,8 +26,8 @@ publication_types: ["7"]
 #- Source Themes
 featured: false
 
- links:
-- name: ""
+# links:
+#- name: ""
    url: "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
