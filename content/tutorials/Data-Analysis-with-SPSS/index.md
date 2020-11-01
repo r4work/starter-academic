@@ -1,5 +1,5 @@
 # Course title, summary, and position in the list.
-linktitle: tutorials
+linktitle: Data analysis with SPSS
 summary: Learn how to use SPSS for data analysis
 weight: 1
 
@@ -15,6 +15,6 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  Data Analysis with SPSS:
+  tutorials:
     name: Overview
     weight: 1
