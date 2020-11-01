@@ -1,3 +1,4 @@
+---
 # Course title, summary, and position in the list.
 linktitle: Data analysis with SPSS
 summary: Learn how to use SPSS for data analysis
@@ -18,3 +19,4 @@ menu:
   Data-Analysis-with-SPSS:
     name: Overview
     weight: 1
+---
