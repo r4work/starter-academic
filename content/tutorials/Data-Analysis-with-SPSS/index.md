@@ -1,5 +1,5 @@
 # Course title, summary, and position in the list.
-linktitle: Data Analysis with SPSS
+linktitle: tutorials
 summary: Learn how to use SPSS for data analysis
 weight: 1
 
