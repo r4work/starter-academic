@@ -1,12 +1,12 @@
 ---
 title: Analysis
-linktitle: Analysis
+#linktitle: Analysis
 toc: true
 type: docs
 date: "2019-05-05T00:00:00Z"
 draft: false
 menu:
-  example:
+  Data-Analysis-with-SPSS:
     parent: Overview
     weight: 2
 
