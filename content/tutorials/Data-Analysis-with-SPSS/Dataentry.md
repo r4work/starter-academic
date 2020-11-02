@@ -1,6 +1,6 @@
 ---
 title: Data entry 
-#linktitle: Data entry
+linktitle: Data entry
 toc: true
 type: docs
 date: "2019-05-05T00:00:00Z"
