@@ -20,7 +20,7 @@ menu:
     name: Overview
     weight: 1
 ---
-Prerequisites:
+Requirements:
 -SPSS installed computer
 -Basic to intermediate level knowledge of statistics
 -Ready data in questionnaire
