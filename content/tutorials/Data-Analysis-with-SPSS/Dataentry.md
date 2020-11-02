@@ -1,5 +1,5 @@
 ---
-title: Data entry
+title: Data entry Page 1
 #linktitle: Tips 1-2
 toc: true
 type: docs
@@ -8,10 +8,10 @@ draft: false
 menu:
   Data-Analysis-with-SPSS:
     parent: Data entry
-    weight: 2
+    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 1
 ---
 
 Content...
