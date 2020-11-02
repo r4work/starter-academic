@@ -1,13 +1,13 @@
 ---
-title: Data entry page 1
-linktitle: Data entry
+title: Data entry
+#linktitle: Data entry
 toc: true
 type: docs
 date: "2019-05-05T00:00:00Z"
 draft: false
 menu:
   Data-Analysis-with-SPSS:
-    parent: Data entry
+    parent: Overview
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
