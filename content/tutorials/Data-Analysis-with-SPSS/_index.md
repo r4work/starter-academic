@@ -19,8 +19,10 @@ menu:
   Data-Analysis-with-SPSS:
     name: Overview
     weight: 1
+    # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+    weight:1
 ---
-Requirements:
--SPSS installed computer
--Basic to intermediate level knowledge of statistics
--Ready data in questionnaire
+Requirements:\n
+-SPSS installed computer\n
+-Basic to intermediate level knowledge of statistics\n
+-Ready data in questionnaire\n
