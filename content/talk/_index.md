@@ -1,6 +1,6 @@
 ---
-title: Recent & Upcoming
-Subtitle: Online workshop
+title: Webinar on Data analysis with SPSS
+#Subtitle: Online workshop
 
 # View.
 #   1 = List
@@ -13,8 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-## **Event** 
-Webinar on Data analysis with SPSS
 ## **Schedule** 
 Every Wednesday and Saturday from 07 Nov-21 Nov, 2020 evening 5:30- 6:30 PM (Based on participants agreement, timings may be adjusted after beginning of the event).
 ## **Topics** 
