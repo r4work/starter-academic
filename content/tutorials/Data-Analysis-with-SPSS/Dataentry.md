@@ -1,5 +1,5 @@
 ---
-title: Data entry 
+title: Data entry page 1
 linktitle: Data entry
 toc: true
 type: docs
