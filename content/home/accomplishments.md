@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   description = "Writing and analysis"
   [[item]]
   organization = "Indian Institute of Technology Kanpur"
-  organization_url = "http://www.igidr.ac.in"
+  organization_url = "https://www.iitk.ac.in/"
   #title = "Research Intern"
   url = ""
  # certificate_url = "https://www.datacamp.com"
