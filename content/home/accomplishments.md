@@ -49,5 +49,14 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2017-03-17"
   description = "Writing and analysis"
+  [[item]]
+  organization = "Indian Institute of Technology Kanpur"
+  organization_url = "http://www.igidr.ac.in"
+  #title = "Research Intern"
+  url = ""
+ # certificate_url = "https://www.datacamp.com"
+  date_start = "2017-01-01"
+  date_end = "2017-03-17"
+  description = "Literature Review and Research Methodology"
 
 +++
