@@ -1,5 +1,5 @@
 +++
-widget = "featured"  # Use the Featured widget
+widget = "pages"  # Use the Featured widget
 headless = true  # This file represents a page section.
 
 title= "Upcoming Event"
