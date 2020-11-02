@@ -44,7 +44,7 @@
   
   [[main]]
   name = "Recent and Upcoming"
-  url = "talks/"
+  url = "talk/"
   weight = 35
   
 [[main]]
