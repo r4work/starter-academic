@@ -1,6 +1,6 @@
 ---
 title: Analysis
-#linktitle: Tips 1-2
+linktitle: Analysis
 toc: true
 type: docs
 date: "2019-05-05T00:00:00Z"
