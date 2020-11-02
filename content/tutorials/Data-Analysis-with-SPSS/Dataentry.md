@@ -15,6 +15,4 @@ menu:
 weight: 1
 ---
 Once you are ready with your data collected through a questionnaire, open SPSS on your computer. Select the variable view from the bttom left tab.
-
-
 and feed the type of variable you are looking to study. Typically, each question from your questionnaire will give you variable.
