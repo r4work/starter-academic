@@ -1,4 +1,5 @@
 ---
+page 1
 title: Data entry 
 #linktitle: Tips 1-2
 toc: true
