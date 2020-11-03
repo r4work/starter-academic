@@ -1,5 +1,5 @@
 ---
-title: Webinar on Data analysis with SPSS
+title: Data analysis with SPSS
 #Subtitle: Online workshop
 
 # View.
@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 ## **Schedule** 
-Every Wednesday and Saturday from 07 Nov-21 Nov, 2020 evening 5:30- 6:30 PM (Based on participants agreement, timings may be adjusted after beginning of the event).
+Wednesday and Saturday from 07 Nov-21 Nov, 2020 evening 5:30- 6:30 PM (Based on participants agreement, timings may be adjusted after beginning of the event).
 ## **How to Participate**
 Upon submission of **[this form](https://docs.google.com/forms/d/e/1FAIpQLSdrVmXGOAWWKAIAsSp2QtH9c_FWkFHf3s_kvF5NMf_KcG9dvA/viewform?usp=sf_link)**, you will get the passcode and link to webinar on your registered email ID.
 ## **Topics** 
