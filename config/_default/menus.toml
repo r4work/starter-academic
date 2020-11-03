@@ -23,6 +23,7 @@
   url = "#projects"
   weight = 15
   
+  
 [[main]]
   name = "Scholarships"
   url = "#accomplishments"
@@ -33,6 +34,10 @@
   url = "#publications"
   weight = 25
   
+  [[main]]
+  name = "Development Practice"
+  url = "#Developmentpractice"
+  weight = 30
 #[[main]]
  # name = "Publications and Presentations"
   #url = "files/cv.pdf"
@@ -40,17 +45,17 @@
 [[main]]
   name = "Tutorials"
   url = "tutorials/"
-  weight = 30
+  weight = 35
   
   [[main]]
   name = "Recent and Upcoming"
   url = "talk/"
-  weight = 35
-  
+  weight = 40
+      
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 40
+  weight = 45
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
