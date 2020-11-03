@@ -6,7 +6,7 @@
 [[main]]
   name = "About me"
   url = "#about"
-  weight = 5
+  weight = 05
 
 #[[main]]
   #name = "Posts"
@@ -16,7 +16,7 @@
 [[main]]
   name = "Teaching"
   url = "#experience"
-  weight = 10
+  weight = 12
 
 [[main]]
   name = "Research"
