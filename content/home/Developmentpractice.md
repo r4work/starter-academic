@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Project Coordinator"
-  company = "Bhoruka Charitable Trus"
+  company = "Bhoruka Charitable Trust"
   company_url = "http://bctngo.org/"
   location = "Jaipur, Rajasthan, India"
   date_start = "2011-08-09"
