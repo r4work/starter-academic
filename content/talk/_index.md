@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 ## **Schedule** 
-09-11 Nov, 2020 evening 5:30- 6:30 PM (Based on participants agreement, timings may be adjusted after beginning of the event).
+09-11 Nov, 2020 evening 5:30- 6:30 IST PM (Based on participants agreement, timings may be adjusted after beginning of the event).
 ## **Topics** 
 Topics: Data entry and coding, Descriptive (frequency, correlation, tabulation) and simple regression in SPSS.
 ## **Who can Participate**
