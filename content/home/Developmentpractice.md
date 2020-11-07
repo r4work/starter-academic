@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2012-03-15"
   date_end = "2013-08-06"
   description = """Project Management and Coordination with Partner organizations\n
-  Responsibilities include:
+  **Key Responsibilities**
   * Team building with marginalized population at the Ditrict levels
   * Admnistration and execution of the Project in the state
   * Organizing workshops with community, government officials, legal and health service providers
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2011-08-09"
   date_end = "2012-02-21"
  description = """Project Management and Coordination with Partner organizations\n
-  Responsibilities include:
+  **Key Responsibilities**
   * Team building at block and volunteers in slum areas
   * Admnistration and execution of the community level interventions in the district
   * Coordinating with community, government officials, and health service providers
