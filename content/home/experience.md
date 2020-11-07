@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   location = "Prayagraj, Uttar Pradesh, India"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = """Taught General Management Theories, Communication Skills Workshop, Computer Applications for Social Sciences.
-  Responsibilities include:
+  description = """Taught General Management Theories, Communication Skills Workshop, Computer Applications for Social Sciences\n
+  **Responsibilities**
   * Coundcting Examination and Evaluation
   * Administrative assistance in the Department
   """
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   location = "Prayagraj, Uttar Pradesh, India"
   date_start = "2019-09-16"
   date_end = "2020-04-30"
-  description = """Taught General Management Theories, Economic Environment, Project Management and Statistics
-  Responsibilities include:
+  description = """Taught General Management Theories, Economic Environment, Project Management and Statistics\n
+  **Responsibilities**
   * Coundcting Examination and Evaluation
   * Lectures at UG and PG levels
   """
