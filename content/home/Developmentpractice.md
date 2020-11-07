@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Jaipur, Rajasthan, India"
   date_start = "2012-03-15"
   date_end = "2013-08-06"
-  description = """Project Management and Coordination with Partner organizations
+  description = """Project Management and Coordination with Partner organizations\n
   Responsibilities include:
   * Team building with marginalized population at the Ditrict levels
   * Admnistration and execution of the Project in the state
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Jaipur, Rajasthan, India"
   date_start = "2011-08-09"
   date_end = "2012-02-21"
- description = """Project Management and Coordination with Partner organizations
+ description = """Project Management and Coordination with Partner organizations\n
   Responsibilities include:
   * Team building at block and volunteers in slum areas
   * Admnistration and execution of the community level interventions in the district
