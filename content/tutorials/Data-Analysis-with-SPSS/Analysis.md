@@ -15,8 +15,8 @@ weight: 2
 ---
 
 ## **Before Analysis**
-Before we jump into analysis, familirize yourself with these key terms often used in analyzing the data.
+Before we jump into analysis, familirize yourself with these key terms often used in analyzing the data.\
 **Hypothesis**
 A research statement put to the test. The statement can be accepted or rejected based on the statistical inferences arising out of your data.
-Most commonly, reserachers use null hypothesis({H}_{0}) for testing. 
+Most commonly, reserachers use null hypothesis $\({H}_{0})$ for testing. 
 
