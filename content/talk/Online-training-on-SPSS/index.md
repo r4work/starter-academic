@@ -1,12 +1,22 @@
 ---
 title: Data analysis with SPSS
-#Subtitle: Online workshop
-
+Event: Online training
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 view: 2
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2020-11-09T17:30:00Z"
+date_end: "2020-11-11T18:30:00Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2020-11-03T00:00:00Z"
+
+authors: []
+tags: []
 
 # Optional header image (relative to `static/media/` folder).
 header:
