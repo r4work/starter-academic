@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
-subtitle = "Webinar on SPSS"
+#subtitle = "Webinar on SPSS"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
