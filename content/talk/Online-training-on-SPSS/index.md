@@ -29,6 +29,6 @@ header:
 Topics: Data entry and coding, Descriptive (frequency, correlation, tabulation) and simple regression in SPSS.
 ## **Who can Participate**
 Research scholars and working persons
-## **How to Participate**
+{{% alert note %}}
 This event has already begun. Stay tuned for future announcements.
-
+{{% /alert %}}
