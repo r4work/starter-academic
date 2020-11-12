@@ -30,5 +30,5 @@ Topics: Data entry and coding, Descriptive (frequency, correlation, tabulation) 
 ## **Who can Participate**
 Research scholars and working persons
 {{% alert note %}}
-This event has already begun. Stay tuned for future announcements.
+This event has ended. Stay tuned for future announcements.
 {{% /alert %}}
