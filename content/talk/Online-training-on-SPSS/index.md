@@ -32,3 +32,4 @@ Research scholars and working persons
 {{% alert note %}}
 This event has ended. Stay tuned for future announcements.
 {{% /alert %}}
+{{% staticref "Data analysis with SPSS.pptx" "newtab" %}}Download the presentation here{{% /staticref %}}
