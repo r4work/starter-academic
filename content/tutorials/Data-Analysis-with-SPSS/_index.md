@@ -3,7 +3,6 @@
 linktitle: Data analysis with SPSS
 summary: Learn how to use SPSS for data analysis
 weight: 1
-commentable: true
 
 # Page metadata.
 title: Overview
