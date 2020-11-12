@@ -17,7 +17,7 @@ publishDate: "2020-11-03T00:00:00Z"
 
 authors: []
 tags: []
-slide_url : '/Data analysis with SPSS.pptx'
+slide_url: '/Data analysis with SPSS.pptx'
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
@@ -27,9 +27,6 @@ header:
 09-11 Nov, 2020 evening 5:30- 6:30 PM IST (Based on participants agreement, timings may be adjusted after beginning of the event).
 ## **Topics** 
 Topics: Data entry and coding, Descriptive (frequency, correlation, tabulation) and simple regression in SPSS.
-## **Who can Participate**
-Research scholars and working persons
 {{% alert note %}}
 This event has ended. Stay tuned for future announcements.
 {{% /alert %}}
-{{% staticref "Data analysis with SPSS.pptx" "newtab" %}}Download the presentation here{{% /staticref %}}
