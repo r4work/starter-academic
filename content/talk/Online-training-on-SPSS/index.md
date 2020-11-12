@@ -17,7 +17,7 @@ publishDate: "2020-11-03T00:00:00Z"
 
 authors: []
 tags: []
-slide_url: '/Data analysis with SPSS.pptx'
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
