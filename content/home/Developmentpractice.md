@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Developent Practice"
+title = "Development Practice"
 subtitle = ""
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
