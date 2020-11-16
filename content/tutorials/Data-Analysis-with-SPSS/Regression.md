@@ -22,15 +22,15 @@ To conduct linear regression, check the distribution of your variables as the li
 
 Analyze->Descriptive->Explore will give you test for normality of the desired variable. The scores of skewness, kurtosis and standard error are the key statistics to watch out. The ratio of kurtosis to standard error is greater than two, indicates deviation from normality. Further, stef-and-leaf plot shows the shape of normal curve of the variable. Box plot tells the cases that lies outside the normal range adding non-normality to your data. The figures illustrates these scores and plots for a sample household income data. 
 
-![Normality testing](C:\Study\Tutorials\Normality testing.jpg)
+{{< figure library="true" src="Normality testing.jpg" >}}
 
 The image below with suggestive pencil sketch shows the line of an imaginary non-normal curve over the obtained data. This suggests the data is right-skewed with a right long tail. 
 
-![Stem-and-leaf-plot](C:\Study\Tutorials\Stem-and-leaf-plot.jpg)
+{{< figure library="true" src="Stem-and-leaf plot.jpg" >}}
 
 Likewise the box-plot suggests the outlier cases.
 
-![boxplot](C:\Study\Tutorials\boxplot.jpg)
+{{< figure library="true" src="boxplot.jpg" >}}
 
 Before, including income variable in my linear model, it will be good to transform it close to normality. This can be done either by dropping the outliers or transforming the variable. We will discuss in more detail in coming sub-sections.
 
