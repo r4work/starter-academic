@@ -72,7 +72,7 @@ The other portion of this table assesses the multicollinearity. VIF is less than
 
 **Collinearity diagnostic** 
 
-If multiple eigen values are less than 0, and Condition index>15, this means serious collinearity problems. 
+If multiple eigen values are close to 0, and Condition index>15, this means collinearity problems. 
 
 **Trouble with Linear Regression**
 
