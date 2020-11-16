@@ -26,7 +26,7 @@ Analyze->Descriptive->Explore will give you test for normality of the desired va
 
 The image below with suggestive pencil sketch shows the line of an imaginary non-normal curve over the obtained data. This suggests the data is right-skewed with a right long tail. 
 
-{{< figure library="true" src="Stem-and-leaf plot.jpg" >}}
+{{< figure library="true" src="Stem-and-leaf-plot.jpg" >}}
 
 Likewise the box-plot suggests the outlier cases.
 
