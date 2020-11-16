@@ -1,4 +1,18 @@
-### Regression**
+---
+
+title: Linear Regression
+toc: true
+type: docs
+date: "2019-05-05T00:00:00Z"
+draft: false
+menu:
+  Data-Analysis-with-SPSS:
+    parent: Overview
+    weight: 3
+
+---
+
+### Linear Regression
 
 **Linear Regression**
 
