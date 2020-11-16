@@ -12,10 +12,6 @@ menu:
 
 ---
 
-### Linear Regression
-
-**Linear Regression**
-
 To conduct linear regression, check the distribution of your variables as the linear regression works well with the normally distributed data. Try transforming your scale variables to make them normally distributed or close to normally distributed. To test the normality of your data follow these steps.
 
 **Testing Normality**
