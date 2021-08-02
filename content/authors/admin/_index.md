@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Research Fellow
+role: Postdoctoral Fellow and Visiting Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
+- name: Indian Institute of Technology Kanpur, India and Duke University, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Fulbright alumnus and currently a Visiting Research Fellow affiliated to Duke Network Analysis Center, Social Science Research Institute, Duke University. I have been doing research, advocacy, and teaching for the last ten years in India. My recent studies apply an evidence-based mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and online platforms.
+I am a 2017-18 batch Fulbright alumnus and currently, affiliated to Indian Institute of Technology Kanpur (Postdoctoral Fellow), and Duke University (Visiting Research Fellow). I have been doing research, advocacy, and teaching for the eleven years in India. My recent studies apply a mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and public policy.
