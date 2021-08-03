@@ -2,7 +2,8 @@
 title: "Do social capital and networks facilitate community
 participation?"
 authors:
-- "Mudit Kumar Singh and James Moody
+- admin
+- James Moody
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
