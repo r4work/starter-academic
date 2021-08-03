@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a 2017-18 batch Fulbright alumnus and currently, affiliated to Indian Institute of Technology Kanpur (Postdoctoral Fellow), and Duke University (Visiting Research Fellow). I have been doing research, advocacy, and teaching for the eleven years in India. My recent studies apply a mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and public policy.
+I am a 2017-18 batch Fulbright alumnus and currently, affiliated to Indian Institute of Technology Kanpur (Postdoctoral Fellow), and Duke University (Visiting Research Fellow). I have been doing research, advocacy, and teaching for the past twelve years in India. My recent studies apply a mix-method approach to explore linkages between social capital, social networks, and public participation in the context of small groups, local governance, and public policy.
