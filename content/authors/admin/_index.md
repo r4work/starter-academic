@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow and Visiting Research Fellow
+role: Postdoctoral Fellow, Indian Institute of Technology Kanpur, India
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology Kanpur, India and Duke University, USA
+- name: Visiting Research Fellow, Duke University, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
