@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
  organization = "Indian Institute of Technology Kanpur"
   #organization_url = ""
-  title = "Community Participation and Social Networks in India"
+  title = "Just Transition Research"
   url = "https://www.iitk.ac.in/JTRC/our-team.php"
   #certificate_url = "https://www.coursera.org"
   date_start = "2021-07-12"
