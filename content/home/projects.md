@@ -20,14 +20,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Center for International and Global Studies"
+ organization = "Indian Institute of Technology Kanpur"
+  #organization_url = ""
+  title = "Community Participation and Social Networks in India"
+  url = "https://www.iitk.ac.in/JTRC/our-team.php"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2021-07-12"
+  date_end = "2022-03-31"
+  description = "Working on Localizing Energy Justice in Energy Transition. A framework was presented at international and national forums that included academcians, trade union leaders, civil society organizations and media representatives"
+
+
+[[item]]
+ organization = "Center for International and Global Studies"
   #organization_url = ""
   title = "Community Participation and Social Networks in India"
   url = "https://igs.duke.edu/2017-2018-graduate-working-groups-global-issues"
   #certificate_url = "https://www.coursera.org"
   date_start = "2017-08-01"
   date_end = "2021-07-31"
-  description = "Led a working group funded by Duke University in 2017. The project has resulted a paper in a highly-ranked, peer reviewed journal in 2020. A working paper is underway."
+  description = "Led a working group funded by Duke University in 2017. The project has resulted papers in highly-ranked, peer-reviewed journals."
 
 [[item]]
   organization = "Motilal Nehru National Institute of Technology Allahabad"
@@ -38,6 +49,6 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.edx.org"
   date_start = "2014-07-22"
   date_end = "2018-12-15"
-  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. The title is listed with International Sociological Association and a paper is published in a highly-ranked, peer reviewed international jurnal. Another paper is under publication process."
+  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. The PhD work resulted in one international and three national presentations and two international peer-reviewed publications."
  
 +++
