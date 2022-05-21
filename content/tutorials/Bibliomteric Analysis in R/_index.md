@@ -19,4 +19,4 @@ menu:
     name: Overview
     weight: 1
 ---
-Please visit the github link to learn Bibliomteric analysis using the Bibliomterix package.
+Please visit the github link on my homepage to learn Bibliomteric analysis using the Bibliomterix package.
