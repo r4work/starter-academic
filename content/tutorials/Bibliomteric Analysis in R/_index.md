@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  Data-Analysis-with-SPSS:
+  Bibliomteric-Analysis-in-Rstudio:
     name: Overview
     weight: 1
 ---
