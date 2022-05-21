@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   url = "https://www.iitk.ac.in/JTRC/our-team.php"
   #certificate_url = "https://www.coursera.org"
   date_start = "2021-07-12"
-  date_end = "2022-03-31"
+  date_end = "2022-05-31"
   description = "Working on Localizing Energy Justice in Energy Transition. A framework was presented at international and national forums that included academcians, trade union leaders, civil society organizations and media representatives"
 
 
