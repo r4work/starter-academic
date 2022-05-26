@@ -1,3 +1,4 @@
+---
 title: "Local Governance in Just Energy Transition: Towards a Community-Centric Framework"
 authors:
 - Pradip Swarnakar
@@ -45,3 +46,4 @@ url_video: ''
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   #focal_point: ""
  # preview_only: false
+ ---
