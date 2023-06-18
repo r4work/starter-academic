@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow, Indian Institute of Technology Kanpur, India
+#role: Postdoctoral Fellow, Indian Institute of Technology Kanpur, India
 
 # Organizations/Affiliations
 organizations:
