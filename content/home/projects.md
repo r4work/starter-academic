@@ -23,11 +23,11 @@ date_format = "Jan 2006"
  organization = "Indian Institute of Technology Kanpur"
   #organization_url = ""
   title = "Just Transition Research"
-  url = "https://www.iitk.ac.in/JTRC/our-team.php"
+  url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2021-07-12"
-  date_end = "2022-05-31"
-  description = "Working on Localizing Energy Justice in Energy Transition. A framework was presented at international and national forums that included academcians, trade union leaders, civil society organizations and media representatives"
+  date_end = "2023-06-15"
+  description = "Worked on Energy Transition away from Coal in India. Devised a community-centric energy transition framework that got published and presented at international and national forums comprised of academicians, trade union leaders, civil society organizations, and media representatives"
 
 
 [[item]]
@@ -45,10 +45,10 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Participatory Rural Development in India:Network-Based Social Capital in Panchayats of Uttar Pradesh"
   Subtitle="Research for the award of Ph.D."
-  url = "https://www.isa-sociology.org/en/junior-sociologists/dissertation-abstracts/list-of-abstracts/1207"
+  url = "https://www.emerald.com/insight/publication/doi/10.1108/9781802622911"
   #certificate_url = "https://www.edx.org"
   date_start = "2014-07-22"
   date_end = "2018-12-15"
-  description = "The PhD was funded by Ministry of Human Resource Development, Government of India with a partial funding by Fulbright scholarship board for 08 months at Duke University. The PhD work resulted in one international and three national presentations and two international peer-reviewed publications."
+  description = "The Ph.D. was funded by the Ministry of Human Resource Development, Government of India with partial funding by the Fulbright scholarship board for 08 months at Duke University. The Ph.D. work resulted in one international and three national presentations and two international peer-reviewed (Q1, ABDC indexed) publications. My thesis got published as a book by Emerald."
  
 +++
