@@ -66,5 +66,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a 2017-18 batch Fulbright alumnus and have been affiliated to Duke University, USA as a Visiting Research Fellow for the last five years. I have been doing research, advocacy, and teaching for the past fourteen years in India. I use a mix-method approach to explore linkages between social capital, social networks, and public (inclusive) participation in the context of public policy and community development interventions designed to improve the socio-economic status of people.
+I am a 2017-18 batch Fulbright alumnus and have been affiliated to Duke University, USA as a Visiting Research Fellow for the last five years. I have been doing practice, research, and teaching for the past fourteen years in India. I use a mix-method approach to explore linkages between social capital, social networks, and public (inclusive) participation in the context of public policy and community development interventions.
 
