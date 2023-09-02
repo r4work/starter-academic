@@ -13,11 +13,12 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
+- name: Jaypee University, Anoopshahr, Uttar Pradesh, India
 - name: Visiting Research Fellow, Duke University, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include local governance, mix-method research and network analysis
+bio: 
 
 interests:
 - Local Governance and Public Policy
@@ -66,5 +67,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a 2017-18 batch Fulbright alumnus and have been affiliated to Duke University, USA as a Visiting Research Fellow for the last five years. I have been doing practice, research, and teaching for the past fourteen years in India. I use a mix-method approach to explore linkages between social capital, social networks, and public (inclusive) participation in the context of public policy and community development interventions.
+I am Assistant Professor in the Faculty of Management, Jaypee University, Anoopshahr and have been affiliated as a visiting research fellow to Duke University since 2018. I have been doing practice, research, and teaching for the past fourteen years in the context of public policy and community development interventions.
 
